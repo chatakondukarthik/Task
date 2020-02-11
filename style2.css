@@ -3,18 +3,19 @@ h1{
     background-color: black;
     text-align: center;
 }
+p.two{
+    color: lightgreen;
+    text-align: justify;
+    font-size: large;
+}
 p.one{
     color: red;
     text-align: justify;
-    font-size: medium;
     font-size: xx-large;
 }
 body{
     background-image: url(libraryphoto.jpg);
     background-size:cover;
-    backdrop-filter: blur(2px);
-    color: aqua;
-}
-div{
-    color: white;
+    backdrop-filter: blur(3px);
+    color:aqua;
 }

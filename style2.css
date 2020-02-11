@@ -1,0 +1,20 @@
+h1{
+    color: yellow;
+    background-color: black;
+    text-align: center;
+}
+p.one{
+    color: red;
+    text-align: justify;
+    font-size: medium;
+    font-size: xx-large;
+}
+body{
+    background-image: url(libraryphoto.jpg);
+    background-size:cover;
+    backdrop-filter: blur(2px);
+    color: aqua;
+}
+div{
+    color: white;
+}
